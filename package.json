@@ -1,7 +1,6 @@
 {
   "name": "ipl-trivia",
   "version": "1.0.0",
-  "description": "a dashboard using data visualizations/graphs",
   "author": "Shubham Pathak <shubham4uh@gmail.com>",
   "private": true,
   "scripts": {
@@ -88,8 +87,8 @@
     "webpack-merge": "^4.1.0"
   },
   "engines": {
-    "node": ">= 4.0.0",
-    "npm": ">= 3.0.0"
+    "node": "10.16.3",
+    "npm": "6.9.0"
   },
   "browserslist": [
     "> 1%",
