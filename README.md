@@ -3,9 +3,10 @@
 2. Vuex used for state management
 3. Vue-Router for Routing (navigation)
 4. ChartJs and vue-chartjs used for creating visual charts(Bar graphs)
-5. sass framework for css
-6. Pandas, A Python library used for fetchting details from dataset(CSV files) 
-7. Gradient design idea taken from here - 'https://www.awwwards.com'
+5. ExpressJs is used for hosting the website on heroku
+6. sass framework for css
+7. Pandas, A Python library used for fetchting details from dataset(CSV files) 
+8. Gradient design idea taken from here - 'https://www.awwwards.com'
 
 # bonus points
 1. Progressive web app created using vue.js and vuex for state management.
