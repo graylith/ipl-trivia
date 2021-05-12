@@ -13,7 +13,7 @@
     "deploy": "node server.js"
   },
   "dependencies": {
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chartjs": "^0.3.24",
     "path": "^0.12.7",
     "vue": "^2.5.2",
